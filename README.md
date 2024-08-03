@@ -8,7 +8,7 @@ Para iniciar o projeto, siga os passos abaixo:
 
 1. **Clone o projeto.**
    
-2. **Certifique-se de que o Docker está instalado em seu sistema.**
+2. **Certifique-se de que o Docker está instalado em seu sistema operacional.**
 
 3. **Construa e inicie os containers:**
    
