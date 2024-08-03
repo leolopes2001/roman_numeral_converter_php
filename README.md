@@ -6,17 +6,19 @@
 
 Para iniciar o projeto, siga os passos abaixo:
 
-1. **Clone o projeto**
+1. **Clone o projeto.**
    
 2. **Certifique-se de que o Docker está instalado em seu sistema.**
 
 3. **Construa e inicie os containers:**
+   
    No diretório raiz do projeto, execute o seguinte comando para construir e iniciar os containers em segundo plano:
 
    ```sh
    docker-compose up -d --build
    ```
-4. **Acesse o Projeto:**
+   
+5. **Acesse o Projeto:**
 
    Após iniciar os containers, você pode acessar o projeto no seu navegador através do endereço: http://localhost:55000/
 
@@ -30,7 +32,7 @@ Para iniciar o projeto, siga os passos abaixo:
       public/vender/bin/phpunit
    ```
 
-## Tecnologias Utilizadas ⭐
+## ⭐ Tecnologias Utilizadas 
 
 - **PHP**
 - **Tailwind CSS**
