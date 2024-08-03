@@ -24,7 +24,7 @@ Para iniciar o projeto, siga os passos abaixo:
 
 ## 🛠 Testes Unitários
    
-   No diretório raiz do projeto, execute o seguinte comando para executar os testes unitários:
+   No diretório **public** do projeto, execute o seguinte comando para executar os testes unitários:
    
    ```sh
       public/vender/bin/phpunit
