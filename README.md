@@ -24,9 +24,7 @@ Para iniciar o projeto, siga os passos abaixo:
 
 ## 🛠 Testes Unitários
    
-   Além das funcionalidades principais, o projeto inclui testes unitários para garantir que as conversões sejam realizadas corretamente.
-   
-   **Rodando os testes:**
+   No diretório raiz do projeto, execute o seguinte comando para executar os testes unitários:
    
    ```sh
       public/vender/bin/phpunit
