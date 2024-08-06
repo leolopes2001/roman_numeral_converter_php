@@ -26,7 +26,7 @@ $converter->handleRequest();
 
         <form method="post" class="space-y-4">
             <div>
-                <label for="conversion_type" class="block text-md font-medium text-gray-700">Selecionou o tipo de conversão:</label>
+                <label for="conversion_type" class="block text-md font-medium text-gray-700">Selecione o tipo de conversão:</label>
                 <select id="conversion_type" name="conversion_type" class="mt-1 block w-full h-[40px] border border-gray-300 rounded-md shadow-sm focus:border-indigo-500 focus:ring-indigo-500 pl-3">
                     <option value="roman_to_integer" <?= $converter->getConversionType() === 'roman_to_integer' ? 'selected' : '' ?>>Romano para Inteiro</option>
                     <option value="integer_to_roman" <?= $converter->getConversionType() === 'integer_to_roman' ? 'selected' : '' ?>>Inteiro para Romano</option>
